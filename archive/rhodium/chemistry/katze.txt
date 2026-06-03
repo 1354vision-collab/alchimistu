@@ -9,8 +9,8 @@ v(0.90bta) 100699                                                    -feind-
 
 WARNUNG: Herstellung, Handel und Besitz von Drogen ist (auch in Europa) illegal.
 
-         Der Autor kann in keiner Weise für eventuelle Schäden, die durch
-         Gebrauch oder Mißbrauch dieses Textes entstehen können, zur Haftung
+         Der Autor kann in keiner Weise fï¿½r eventuelle Schï¿½den, die durch
+         Gebrauch oder Miï¿½brauch dieses Textes entstehen kï¿½nnen, zur Haftung
          gezogen werden. Dieser Text ist NUR zur Information gedacht!
 
 Inhalt:
@@ -19,33 +19,33 @@ Inhalt:
   I   - Einleitung
  II   - Synthese
     1   - (Pseudo)Ephedrin extraktion
-    2   - Vorbereitung der KMnO4-Lösung
+    2   - Vorbereitung der KMnO4-Lï¿½sung
     3   - Die Reaktion
     4   - Vorbereitung zur Kristallisation
     5   - Die Kristallisation
 III   - Testen des Produktes
- IV   - Bezugsquellen für Chemiekalien
+ IV   - Bezugsquellen fï¿½r Chemiekalien
   V   - Geschichte
 
 I. Einleitung:
 --------------
 
 Diese Anleitung beschreibt nicht schwierige Chemieformeln und endlose
-Erklärungen, sondern gibt dir konkrete Informationen zur Herstellung dieser
+Erklï¿½rungen, sondern gibt dir konkrete Informationen zur Herstellung dieser
 Droge. Du brauchst auch kein Chemiestudent zu sein um diese Synthese durch-
-zuführen, ein Hauptschulabschluß genügt. Trotzdem müssen hier ein paar Worte
-über die chemische Beschaffenheit gesprochen werden.
+zufï¿½hren, ein Hauptschulabschluï¿½ genï¿½gt. Trotzdem mï¿½ssen hier ein paar Worte
+ï¿½ber die chemische Beschaffenheit gesprochen werden.
 
 "Methcathinon HCL" ist auch bekannt unter: Cat, Ephedron, Jeff od. Mulka
 
-Es ist ein "Klasse I" Stimulant und fällt daher in die gleiche Kategorie wie
+Es ist ein "Klasse I" Stimulant und fï¿½llt daher in die gleiche Kategorie wie
 Herion, Kokain, LSD und Amphetamiene.
 
 Chemisch gesehen ist es: 2-(Methylamino)Propiophenon
 
 Bei der Synthese wird in einer kalten Reaktion Ephedrin zu Methcathinon
 oxidiert. Als Reagent wird KMnO4 (Kalium permanganat) verwendet, der bei
-diesem Vorgang ein Sauerstoffatom aus dem Ephedrin-Molekül entfernt.
+diesem Vorgang ein Sauerstoffatom aus dem Ephedrin-Molekï¿½l entfernt.
 
 Genauere Literatur ist im Internet in den entsprechenden Seiten zu finden...
 
@@ -55,8 +55,8 @@ II. Synthese:
 Du solltest diese Anleitung mehrmals Druchlesen und genau befolgen wenn du
 Erfolg haben willst. Exaktheit und Sauberkeit sind das oberste Gebot.
 
-Als erstes folgt eine Liste mit den benötigten Chemikalien und den
-Gerätschaften, die du zur Synthese benötigt.
+Als erstes folgt eine Liste mit den benï¿½tigten Chemikalien und den
+Gerï¿½tschaften, die du zur Synthese benï¿½tigt.
 Beschreibungen wie du diese erwirbst, stehen am Ende der Anleitung.
 
 WICHTIG: Beginne nicht mit der Sysnthese, bevor du alle Bestandteile
@@ -67,73 +67,73 @@ Chemikalien:
  * (Pseudo)Ephedrin HCL - Tabletten          100-120 Stk
  * KMnO4 'Kalium permanganat'                    ~10 g
  * Isopropanol 'Isopropyl Alkohol' 70-100%       200 mL
- * Salzsäure 30-37%                               ~5 mL
+ * Salzsï¿½ure 30-37%                               ~5 mL
  * Aceton                                       ~200 mL
  * Methanol 'Methyl Alkohol'                    ~200 mL
  * Destilliertes Wasser                           ~1 L
 
-Gerätschaft:
+Gerï¿½tschaft:
 
- * 2 'Einweckgläser' mit dem roten Gummi. Komplett aus Glas, mit dem
-   Metalverschluss; Oma nimmt sie auch zur Konfitürenherstellung.
-   Jedes Glas muß Platz für ~1L bieten.
+ * 2 'Einweckglï¿½ser' mit dem roten Gummi. Komplett aus Glas, mit dem
+   Metalverschluss; Oma nimmt sie auch zur Konfitï¿½renherstellung.
+   Jedes Glas muï¿½ Platz fï¿½r ~1L bieten.
  * 1 Drinkglas
  * Plastiktrichter
  * ~10 Kaffeefilter
  * Messbecher mit 'mL'-Einteilung
  * Spritze, 10-20mL Skala
  * PYREX-Glas Kochtopf
- * Großer Glas- oder Platiktopf 1L
- * Rührstab aus Glas od. Edelstahl
+ * Groï¿½er Glas- oder Platiktopf 1L
+ * Rï¿½hrstab aus Glas od. Edelstahl
  * Thermometer
- * Kühlschrank
+ * Kï¿½hlschrank
  * Microwelle
- * pH-Teststäbchen
+ * pH-Teststï¿½bchen
 
 1. (Pseudo)Ephedrin extraktion:
 -------------------------------
 
-ANMERKUNG: Verwende während des gesamten Vorganges NUR destilieres Wasser,
-           ansonsten schlägt die Synthese fehl!
+ANMERKUNG: Verwende wï¿½hrend des gesamten Vorganges NUR destilieres Wasser,
+           ansonsten schlï¿½gt die Synthese fehl!
            Du brauchst genau 3g (Pseudo)Epedrin HCL.
-           Schau auf die Dose mit den Tabs (mg pro Stück) und berechne die
-           benötige Anzahl nach der einfachen Formal:
+           Schau auf die Dose mit den Tabs (mg pro St&deg;Ck) und berechne die
+           benï¿½tige Anzahl nach der einfachen Formal:
 
-           Stückzahl = 3000mg(3g) / mg pro Pille  [z.b: 3000mg/25mg=125 Stück]
+           St&deg;Ckzahl = 3000mg(3g) / mg pro Pille  [z.b: 3000mg/25mg=125 St&deg;Ck]
 
 Leere dir berechnete Anzahl von Pillen (z.B 100,125) in das erste Einweckglas.
-Miss 150mL DESTILIERTES Wasser heraus und schütte es zu den Pillen ins Glas.
-Schüttle eine Weile bis die Pillen weich werden und Anfangen zu zerfallen.
-Öffne den Deckel und stelle das Glas in die Microwelle, schalte ein und
-erhitze das Ganze bis es heiss ist (70-80°C). Es darf aber nicht zu Kochen
-beginnen.Nachdem du es 5min sitzen lässt, siehst du wie sich ein weißer Flaum
-(Pillen-Füllermaterial) am Boden absetzt. Nimm nun zwei Kaffeefilter (den einen
-in den anderen) und steck sie in den Trichter. Den Trichter plazierst du über
+Miss 150mL DESTILIERTES Wasser heraus und schï¿½tte es zu den Pillen ins Glas.
+Schï¿½ttle eine Weile bis die Pillen weich werden und Anfangen zu zerfallen.
+ï¿½ffne den Deckel und stelle das Glas in die Microwelle, schalte ein und
+erhitze das Ganze bis es heiss ist (70-80&deg;C). Es darf aber nicht zu Kochen
+beginnen.Nachdem du es 5min sitzen lï¿½sst, siehst du wie sich ein weiï¿½er Flaum
+(Pillen-Fï¿½llermaterial) am Boden absetzt. Nimm nun zwei Kaffeefilter (den einen
+in den anderen) und steck sie in den Trichter. Den Trichter plazierst du ï¿½ber
 das zweite Einweckglas. Leere das Extrakt nun langsam und behutsam durch die
 Filter in das zweite Einweckglas und achte darauf das der weisse Rest
-größtenteils im ersten Glas zurückbleibt
+grï¿½ï¿½tenteils im ersten Glas zur&deg;Ckbleibt
 
 ANMERKUNG: Je nach Kaffeefilterart kann dies von 5-30min dauern. Du hast nun
-           2 Gläser, eins mit einer weißen Masse und noch etwas Wasser, das
-           andere mit einer klaren, durchsichtigen Flüssigkeit. Dieses Glas
-           enthällt das extrahierte (Pseudo)Ephedrin.
+           2 Glï¿½ser, eins mit einer weiï¿½en Masse und noch etwas Wasser, das
+           andere mit einer klaren, durchsichtigen Flï¿½ssigkeit. Dieses Glas
+           enthï¿½llt das extrahierte (Pseudo)Ephedrin.
 
-Miss ein zweites Mal 150mL dest. Wasser heraus und gieße es in das erste Glas
-in dem sich der weiße Rest befindet. Mach den Deckel zu und schüttle kräftig
-für einige Sekunden. Danach wiederhole das Aufhitzen in der Microwelle und das
-Filtern wie zuvor. Natürlich mit zwei neuen Fitern!
+Miss ein zweites Mal 150mL dest. Wasser heraus und gieï¿½e es in das erste Glas
+in dem sich der weiï¿½e Rest befindet. Mach den Deckel zu und schï¿½ttle krï¿½ftig
+fï¿½r einige Sekunden. Danach wiederhole das Aufhitzen in der Microwelle und das
+Filtern wie zuvor. Natï¿½rlich mit zwei neuen Fitern!
 Wiederhole das Ganze nun ein drittes Mal, nur das du in diesem (letzten)
-Durchgang den kompletten Inhalt von ersten Glas inkl. dem weißen Flaum in den
-Filter schüttest. Erst das Wasser und dann den Füller, sonst verpicken die
-Poren der Filter. Wenn das Ganze Wasser durch ist, drücke die Filter noch
+Durchgang den kompletten Inhalt von ersten Glas inkl. dem weiï¿½en Flaum in den
+Filter schï¿½ttest. Erst das Wasser und dann den Fï¿½ller, sonst verpicken die
+Poren der Filter. Wenn das Ganze Wasser durch ist, dr&deg;Cke die Filter noch
 vorsichtig mit der Hand aus, aber achte darauf das sie nicht brechen.
 Resultat im zweiten Glas: ~400ml extrahiertes Eph. - Das erste Glas kannst du
 auswaschen und zur Seite stellen. 400ml deshalb weil jeder Kaffeefilter ca.
-10-15ml aufsaugt. Füll nun die Menge bis 450mL mit dest. Wasser auf, mach den
-Deckel zu und stell das Glas in den Kühlschrank. (er muß mind. bis ~2°C kühlen,
-am besten 1-2°C) Gib acht, das nichts einfriert.
+10-15ml aufsaugt. Fï¿½ll nun die Menge bis 450mL mit dest. Wasser auf, mach den
+Deckel zu und stell das Glas in den Kï¿½hlschrank. (er muï¿½ mind. bis ~2&deg;C kï¿½hlen,
+am besten 1-2&deg;C) Gib acht, das nichts einfriert.
 
-2. Vorbereitung der KMnO4-Lösung:
+2. Vorbereitung der KMnO4-Lï¿½sung:
 ---------------------------------
 
 ANMERKUNG: Je nach verwendetem Pillentyp muss eine gewisse Menge KMnO4 zur
@@ -143,37 +143,37 @@ ANMERKUNG: Je nach verwendetem Pillentyp muss eine gewisse Menge KMnO4 zur
            Pseudoephedrin HCL: 19.0ml
            Ephedrin HCL:       15.5ml
 
-Nimm das leere und ausgewaschene Einweckglas, fülle es mit 250ml dest. Wasser
-und stelle es zur Seite. Fülle nun den Glas- oder Plastiktopf mit einem Liter
-30-35°C warem Leitungswasser. Nimm das Drinkglas und leere genau 100ml dest.
+Nimm das leere und ausgewaschene Einweckglas, fï¿½lle es mit 250ml dest. Wasser
+und stelle es zur Seite. Fï¿½lle nun den Glas- oder Plastiktopf mit einem Liter
+30-35&deg;C warem Leitungswasser. Nimm das Drinkglas und leere genau 100ml dest.
 Wasser hinein. Stell das Glas nun in das Wasser den Topfes und lass die
-Temperatur des Wassers im Glas auf 26°C ansteigen. Kontroliere dies mit dem
-Thermometer und rühre mit dem Glasstab unentwegt um überall die gleiche
-Temperatur zu behalten. Wiege nun genau 6.0g KMno4 heraus und füge dies den
-100ml dest. Wasser unter ständigen rühren zu.
+Temperatur des Wassers im Glas auf 26&deg;C ansteigen. Kontroliere dies mit dem
+Thermometer und rï¿½hre mit dem Glasstab unentwegt um ï¿½berall die gleiche
+Temperatur zu behalten. Wiege nun genau 6.0g KMno4 heraus und fï¿½ge dies den
+100ml dest. Wasser unter stï¿½ndigen rï¿½hren zu.
 
-ANMERKUNG: Die Löslichkeit vom KMnO4 hängt starkt mit der Wassertemperatur
-           zusammmen. Optimal sind 25°C. Lass das Glas nun 5-10min stehen
-           um ein gute Auflösung des KMnO4 zu gewärleisten. Es werden aber
-           am Boden immer einige Körnchen zurückbleiben.
+ANMERKUNG: Die Lï¿½slichkeit vom KMnO4 hï¿½ngt starkt mit der Wassertemperatur
+           zusammmen. Optimal sind 25&deg;C. Lass das Glas nun 5-10min stehen
+           um ein gute Auflï¿½sung des KMnO4 zu gewï¿½rleisten. Es werden aber
+           am Boden immer einige Kï¿½rnchen zur&deg;Ckbleiben.
 
-Zieh nun die Sprizte mit der oben angeführte Menge (19.0ml bzw. 15.5ml) aus der
-KMnO4-Lösung auf und füge dies den 250ml dest. Wasser im Einweckglas zu.
-Die Farbe des Wassers färbt sich augenblicklich dunkelrot bis schwarz. Mache den
-Deckel zu, schüttle die Lösung kräftig und stell sie dann in den Kühlschrank
-neben das andere Glas. Das Drinkglas mit dem restlichem KMnO4 kannst du für die
-nächste Synthese-Prozedur aufbewahren oder wegleeren.
+Zieh nun die Sprizte mit der oben angefï¿½hrte Menge (19.0ml bzw. 15.5ml) aus der
+KMnO4-Lï¿½sung auf und fï¿½ge dies den 250ml dest. Wasser im Einweckglas zu.
+Die Farbe des Wassers fï¿½rbt sich augenblicklich dunkelrot bis schwarz. Mache den
+Deckel zu, schï¿½ttle die Lï¿½sung krï¿½ftig und stell sie dann in den Kï¿½hlschrank
+neben das andere Glas. Das Drinkglas mit dem restlichem KMnO4 kannst du fï¿½r die
+n&deg;Chste Synthese-Prozedur aufbewahren oder wegleeren.
 
-ANMERKUNG: Beide Gläser im Kühlschrank müssen nun auf 1-2°C abkühlen. Das
+ANMERKUNG: Beide Glï¿½ser im Kï¿½hlschrank mï¿½ssen nun auf 1-2&deg;C abkï¿½hlen. Das
            dauert zwischen 4-6 Stunden. Lass diese Zeit ruhig verstreichen,
-           denn wenn sie nicht kalt genug sind, schlägt die Synthese fehl!
+           denn wenn sie nicht kalt genug sind, schlï¿½gt die Synthese fehl!
 
 3. Die Reaktion:
 ----------------
 
-Mische nun einfach die beiden kalten Flüssigkeiten zusammen, schüttle kräftig
-und stelle das Einweckglas für 8-12 Stunden zurück in den Kühlschrank. Wenn
-möglich, schüttle das Glas die ersten 6 Stunden jede Stunde einmal um die
+Mische nun einfach die beiden kalten Flï¿½ssigkeiten zusammen, schï¿½ttle krï¿½ftig
+und stelle das Einweckglas fï¿½r 8-12 Stunden zur&deg;Ck in den Kï¿½hlschrank. Wenn
+mï¿½glich, schï¿½ttle das Glas die ersten 6 Stunden jede Stunde einmal um die
 beste Vermischung bzw. Reaktion zu erreichen.
 
 ANMERKUNG:  0 Std. - Gemisch dunkelrot bis schwarz.
@@ -181,22 +181,22 @@ ANMERKUNG:  0 Std. - Gemisch dunkelrot bis schwarz.
            ~4 Std. - Erste leiche Separation...
            ~6 Std. - Separation fortgeschritten, brauen Partikel setzen sich
                      langsam zum Boden hin ab...
-           ~8 Std. - Eine relativ klare Flüssigkeit ist nun im Glas. Am Boden
+           ~8 Std. - Eine relativ klare Flï¿½ssigkeit ist nun im Glas. Am Boden
                      hat sich ein brauner bis dunkelroter, lechtbeweglicher
                      Abstatz gebildet...
-          ~10 Std. - Flüssigkeit ist jetzt total klar und optisch sauber vom
+          ~10 Std. - Flï¿½ssigkeit ist jetzt total klar und optisch sauber vom
                      braunem Abstatz zu trennen der sich oben und unten im
                      Glas gesammelt hat.
 
-Lass das Glas mindestens 8 Stunden, maximal aber 12 Stunden im Kühlschrank.
+Lass das Glas mindestens 8 Stunden, maximal aber 12 Stunden im Kï¿½hlschrank.
 
-ANMERKUNG: Das (Pseudo)Epherin in der Lösung wurde nun zu Methcathinon
+ANMERKUNG: Das (Pseudo)Epherin in der Lï¿½sung wurde nun zu Methcathinon
            oxidiert. Der Geruch ist wie 'Pistazie Eis Creme'. Es ist aber nicht
            das Methcathinon was so riecht, es ist Benzaldehyd, welches als
            Beiprodukt bei der Reaktion gebildet wird.
 
-Sobald die Flüssigkeit total klar erscheint, nimmst du sie aus dem Kühlschrank
-heraus und fügst 100mL Isopropanol hinzu. Dies hat den Grund, daß das ver-
+Sobald die Flï¿½ssigkeit total klar erscheint, nimmst du sie aus dem Kï¿½hlschrank
+heraus und fï¿½gst 100mL Isopropanol hinzu. Dies hat den Grund, daï¿½ das ver-
 bleibende KMnO4 noch etwas zu oxidieren hat, anstelle des (Pseudo)Ephedrin's.
 Stell das Glas mit verschlossenem Deckel nun auf ein Regal und lass es auf
 Raumtemperatur kommen. Das dauert so zwischen 3-5 Stunden.
@@ -204,62 +204,62 @@ Raumtemperatur kommen. Das dauert so zwischen 3-5 Stunden.
 4. Vorbereitung zur Kristallisation:
 ------------------------------------
 
-Platziere nun den Trichter über das andere (leere und ausgewaschene) Einweck-
+Platziere nun den Trichter ï¿½ber das andere (leere und ausgewaschene) Einweck-
 glas und stecke drei Kaffeefilter in ihn hinein. Leere nun langsam die Meth-
-cathinon Lösung durch den Filter. Achte darauf, das du den braunen Absatz erst
-zuletzt in den Filter hineinschüttest um eine Verstopfung zu vermeiden.
-Nach der Filtration muss die Lösung total klar sein, ansonsten mußt du sie
-ein zweites mal filtern. Nun mußt du den pH-Wert korrigieren. Miß ihn mit einem
-pH-Teststäbchen, er wird so um 8-9 liegen. Du mußt nun Salzsäure hinzufügen
-um sicher zu gehen das die HCL-Form produziert wird. Füge Tropfen um Tropfen
-hinzu, rühre mit dem Glasstab kräfg um und miß nach jedem Tropfen den pH-Wert
+cathinon Lï¿½sung durch den Filter. Achte darauf, das du den braunen Absatz erst
+zuletzt in den Filter hineinschï¿½ttest um eine Verstopfung zu vermeiden.
+Nach der Filtration muss die Lï¿½sung total klar sein, ansonsten muï¿½t du sie
+ein zweites mal filtern. Nun muï¿½t du den pH-Wert korrigieren. Miï¿½ ihn mit einem
+pH-Teststï¿½bchen, er wird so um 8-9 liegen. Du muï¿½t nun Salzsï¿½ure hinzufï¿½gen
+um sicher zu gehen das die HCL-Form produziert wird. Fï¿½ge Tropfen um Tropfen
+hinzu, rï¿½hre mit dem Glasstab krï¿½fg um und miï¿½ nach jedem Tropfen den pH-Wert
 neu. Er sollte so zwischen 5 bis 6.5 liegen. Das wird so nach 3 bis 4 Tropfen
 erreicht sein.
 
-ANMERKUNG: Gib acht, das du nicht zuviel Salzsäure dazugibst, denn das kann
-           später zu großen Problemen führen!
+ANMERKUNG: Gib acht, das du nicht zuviel Salzsï¿½ure dazugibst, denn das kann
+           spï¿½ter zu groï¿½en Problemen fï¿½hren!
 
 5. Die Kristallisation:
 -----------------------
 
 Leere nun den kompletten Inhalt des Glases in den PYREX Kochtopf (nur pyrex!)
 und stell ihn auf eine Herdplatte oder einen Plattenkocher. Schalte die kleinste
-Stufe ein und beginne das Ganze zu erhitzen. Achte darauf, das die Flüssigkeit
-während des gesammten Vorganges (5-7 Std.) niemals zu Kochen beginnt! Die
-Temperatur sollte sich so bei 70-80°C einpendeln.
+Stufe ein und beginne das Ganze zu erhitzen. Achte darauf, das die Flï¿½ssigkeit
+wï¿½hrend des gesammten Vorganges (5-7 Std.) niemals zu Kochen beginnt! Die
+Temperatur sollte sich so bei 70-80&deg;C einpendeln.
 
-ANMERKUNG:   0 Std. - Temp. 25°C / ~760 mL
-            ~2 Std. - Temp. 75°C / ~550 mL
-            ~4 Std. - Temp. 75°C / ~300 mL
-            ~6 Std. - Temp. 75°C / ~150 mL
-            ~8 Std. - Temp. 75°C /  ~10 mL
+ANMERKUNG:   0 Std. - Temp. 25&deg;C / ~760 mL
+            ~2 Std. - Temp. 75&deg;C / ~550 mL
+            ~4 Std. - Temp. 75&deg;C / ~300 mL
+            ~6 Std. - Temp. 75&deg;C / ~150 mL
+            ~8 Std. - Temp. 75&deg;C /  ~10 mL
 
-Wenn nur noch ~10ml übrig sind, wird die Flüssigkeit eine leicht gelbliche und
-sehr ölige Substanz sein. Sie sollte ungefähr die Zähigkeit von kaltem Motoröl
-haben. Es ist wichtig das soviel Wasser wie möglich verdampft wird, denn sonst
+Wenn nur noch ~10ml ï¿½brig sind, wird die Flï¿½ssigkeit eine leicht gelbliche und
+sehr ï¿½lige Substanz sein. Sie sollte ungefï¿½hr die Zï¿½higkeit von kaltem Motorï¿½l
+haben. Es ist wichtig das soviel Wasser wie mï¿½glich verdampft wird, denn sonst
 wird die Kristallbildung erschwehrt.
-Füge nun einen Schuß Methanol (~20mL) hinzu. Nun müsteßt du erste weißgelbe
-Methcathinon Kristalle im Öl enstehen sehen. Rühre ein wenig mit dem Glasstab
+Fï¿½ge nun einen Schuï¿½ Methanol (~20mL) hinzu. Nun mï¿½steï¿½t du erste weiï¿½gelbe
+Methcathinon Kristalle im ï¿½l enstehen sehen. Rï¿½hre ein wenig mit dem Glasstab
 und scheide dann den Alkohol in einen sauberen Becher oder ins andere
-Einweckgläser ab.
+Einweckglï¿½ser ab.
 
 ANMERKUNG: Methanol hilft das Wasser zu entfernen und die Kristalle in einer
            angemessen Zeit zu trocknen.
 
-Das Öl im Kochtopf verschwindet langsam. Mehr und mehr Kristalle beginnen sich
-zu bilden. Unter kleinster "Flamme" und ständigem umherrühren werden die
-Kristalle allmählich trockener und fester. Gib acht, das du sie nicht überhitzt!
-Wenn sie sich Färben (grünblau) oder zu schmelzen beginnen liegst du mit der
+Das ï¿½l im Kochtopf verschwindet langsam. Mehr und mehr Kristalle beginnen sich
+zu bilden. Unter kleinster "Flamme" und stï¿½ndigem umherrï¿½hren werden die
+Kristalle allmï¿½hlich trockener und fester. Gib acht, das du sie nicht ï¿½berhitzt!
+Wenn sie sich Fï¿½rben (grï¿½nblau) oder zu schmelzen beginnen liegst du mit der
 Temperatur zu hoch!
-Füge nun einen Schuß Aceton (~20ml) hinzu. Sofort wirst du sehen, das sich die
-Kristalle fast Schneeweiß färben und einige Verunreinigungen (Kaffeefilter-
-partikel, Haare..) im Aceton zurückbleiben.
+Fï¿½ge nun einen Schuï¿½ Aceton (~20ml) hinzu. Sofort wirst du sehen, das sich die
+Kristalle fast Schneeweiï¿½ fï¿½rben und einige Verunreinigungen (Kaffeefilter-
+partikel, Haare..) im Aceton zur&deg;Ckbleiben.
 
-ANMERKUNG: Aceton hilft, Verunreinigungen und ölige Rückstände zu entfernen.
+ANMERKUNG: Aceton hilft, Verunreinigungen und ï¿½lige R&deg;Ckstï¿½nde zu entfernen.
 
-Scheide das Aceton ab und leere es in den Behälter in dem du zuvor das Methanol
+Scheide das Aceton ab und leere es in den Behï¿½lter in dem du zuvor das Methanol
 hineingegenben hast. Sofort siehst du wie sich einige Kristalle im Becher bzw.
-Glas bilden, die das Aceton zuvor aufgelöst hat. Und wieder sind einige
+Glas bilden, die das Aceton zuvor aufgelï¿½st hat. Und wieder sind einige
 Kristalle vom Aceton gerettet. Verdampfe vorsichtig das letzte Wasser, bzw.
 verdampfe so lange bis die Kristalle als trockenes Pulver im Pyrextopf
 liegen. Schabe sie mit einem Messer zum trocknen auf eine Glas- oder
@@ -267,20 +267,20 @@ Plastikplatte heraus. Filtere auch das Methcathinon aus dem Becher mit einem
 Messer heraus. Mit einer Rasierklinge kannst du es nun noch zu feinem Pulver
 aufhacken...
 
-ANMERKUNG: Der Gewinn wird mehr als 3g sein. Denn KMnO4 und Salzsäure bilden das
+ANMERKUNG: Der Gewinn wird mehr als 3g sein. Denn KMnO4 und Salzsï¿½ure bilden das
            Beiprodukt "Kaliumclorid", welches am Ende auskristallisiert wird.
 
 III: Testen des Produktes:
 --------------------------
 
-Flamentest: Erhitze ein klein wenig über einem Methan-Campingkocher in einem
-            Kaffeelöffel. Zuerst schmiltzt es, dann beginnt es zu kochen und
-            schließlich geht es in kleine Flammen auf. Es bleibt ein kleiner
-            schwarzer Belag zurück.
+Flamentest: Erhitze ein klein wenig ï¿½ber einem Methan-Campingkocher in einem
+            Kaffeelï¿½ffel. Zuerst schmiltzt es, dann beginnt es zu kochen und
+            schlieï¿½lich geht es in kleine Flammen auf. Es bleibt ein kleiner
+            schwarzer Belag zur&deg;Ck.
 
 Geschmak:   Sehr bitter.
 
-Aussehen:   Weiße bis (leicht) weißgelbe Kristalle. Aufgerieben ergeben sie ein
+Aussehen:   Weiï¿½e bis (leicht) weiï¿½gelbe Kristalle. Aufgerieben ergeben sie ein
             sehr feines Pulver, wie Staubzucker oder Mehl.
 
 Geruch:     Typischer Keton-Geruch.
@@ -291,7 +291,7 @@ IV: Bezugsquellen der Chemiekalien:
 (Pseudo)Ephedrin:      In den meisten Staaten Europa's ist Ephedrin und seine
                        Salze eine kontrollierte Substanz. In Amerika ist es
                        erlaubt, aber nur in einer Dosis von maximal 30mg pro
-                       Pille. Mann kann sie aber über das Internet bei einigen
+                       Pille. Mann kann sie aber ï¿½ber das Internet bei einigen
                        "HerbalShops" bestellen. Einfach diese Zeile in einer
                        Suchmaschine eingeben:
                        "+ephedrine hcl +order" - (~12US$/Dose(100))
@@ -299,15 +299,15 @@ IV: Bezugsquellen der Chemiekalien:
 KMnO4:                 In der Apotheke. Es wird benutzt um Eisen aus Wasser
                        zu filtern. (8DM/100g)
 
-Salzsäure:             In der Apotheke. Wird benutzt um Elektroplatienen zu
-                       ätzen oder um den Abfluß zu reinigen. (~11DM/L)
+Salzsï¿½ure:             In der Apotheke. Wird benutzt um Elektroplatienen zu
+                       ï¿½tzen oder um den Abfluï¿½ zu reinigen. (~11DM/L)
 
 Isopropanol:           In der Apotheke. (~11DM/L)
 
 Methanol:              In der Apotheke. (~11DM/L)
 
-Aceton:                Im Farbfachgeschäft oder Apotheke. Wird zur
-                       Farbverdünnung verwendet. (~10DM/L)
+Aceton:                Im Farbfachgeschï¿½ft oder Apotheke. Wird zur
+                       Farbverdï¿½nnung verwendet. (~10DM/L)
 
 Destilliertes Wasser:  In jedem Supermarkt. (~2DM/L)
 
@@ -321,12 +321,12 @@ v0.60bta - Korrekturen
 v0.70bta - Korrekturen
          - Umgestaltung
 
-v0.80bta - Hinzufügen von "Bezugsquellen der Chemiekalien"
+v0.80bta - Hinzufï¿½gen von "Bezugsquellen der Chemiekalien"
 
-V0.80bta - Hinzufügen des Verzeichnissystems
+V0.80bta - Hinzufï¿½gen des Verzeichnissystems
 
-v0.85bta - Hinzufügen von "Geschichte"
+v0.85bta - Hinzufï¿½gen von "Geschichte"
 
-v0.90bta - Hinzufügen von "Testen des Produktes"
+v0.90bta - Hinzufï¿½gen von "Testen des Produktes"
          - Umstellen des Verzeinissystems
 

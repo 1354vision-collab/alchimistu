@@ -7,10 +7,10 @@ Chem. Ber. 117, 856-858 (1984)
 Isobornylamine
 
 1.67g (10 mmol) camphor oxime and 5.7g (20 mmol) NiCl2*6H2O was dissolved in 
-100ml methanol and cooled to -30°C, and during 30 minutes 3.8g (10 mmol) NaBH4 
+100ml methanol and cooled to -30&deg;C, and during 30 minutes 3.8g (10 mmol) NaBH4 
 was added in portions. The mixture was stirred for another 30 minutes and then 
 the cooling bath was removed and the reaction mixture worked up as usual. 
-Yield after sublimation at 100°C/14 mmHg 1.40g (92%).
+Yield after sublimation at 100&deg;C/14 mmHg 1.40g (92%).
 
 4-tert-butyl-cyclohexylamine
 

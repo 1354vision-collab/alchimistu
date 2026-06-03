@@ -274,14 +274,14 @@ A cold solution of 20.0g (0.12 mol) of 2,5-dimethoxybenzaldehyde in glacial
 acetic acid (115ml) was treated with 20.0g of bromine in 60ml glacial acetic
 acid. The solution was stirred at room temperature for two to three days and
 then dilute with ice water. The yellow precipitate was collected by filtration
-and dried (28g, 95%), mp 118-126°C (lit. 125-126°C). Recrystallization from
-95% ethanol gave 15.20g of 4-bromo-2,5-dimethoxybenzaldehyde, mp 132-133°C
-(lit. 132-133°C). Ethanol was removed from the mother liquor in vacuo and the
+and dried (28g, 95%), mp 118-126&deg;C (lit. 125-126&deg;C). Recrystallization from
+95% ethanol gave 15.20g of 4-bromo-2,5-dimethoxybenzaldehyde, mp 132-133&deg;C
+(lit. 132-133&deg;C). Ethanol was removed from the mother liquor in vacuo and the
 residue was subjected to column chromatography (silicagel, benzene).
 The solid (10.4g) collected in the initial fractions consisted of
-4-bromo-2,5-dimethoxy-benzaldehyde, total yield 25.6g (87%), mp 132-133°C.
+4-bromo-2,5-dimethoxy-benzaldehyde, total yield 25.6g (87%), mp 132-133&deg;C.
 Subsequent fractions gave 1.5g (5%) of 6-bromo-2,5-dimethoxybenzaldehyde,
-mp 102-103°C after recrystallization from ethanol.
+mp 102-103&deg;C after recrystallization from ethanol.
 
 --------------------------------------------------------------------------------
 

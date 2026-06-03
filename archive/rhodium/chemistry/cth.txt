@@ -64,7 +64,7 @@ A typical procedure for reduction of aldehydes and ketones. [ref. 4]
 To a stirred suspension of an appropriate aldehyde or ketone (7.5 mmole)
 and 10% Pd-C (0.350 g) in glacial acetic acid (10 ml), the anhydrous
 ammonium formate (38 mmole) was added in a single portion under argon. The
-resulting reaction mixture was stirred at 110°C +/- 5°C for 10-30 min. The
+resulting reaction mixture was stirred at 110&deg;C +/- 5&deg;C for 10-30 min. The
 progress of reaction was monitored by TLC and GC. After completion of the
 reaction, 50 ml of CHCl3 was added, and the catalyst was removed by
 filtration through a celite pad and washed with CHCl3 (20 ml). The combined
@@ -90,7 +90,7 @@ changed to 55/44.
 
 In the case of benzaldehyde, 1.5% toluene, 34% benzyl alcohol (retention
 time 4.9 min) and 60% high boiling by-product (retention time 8.9 min) were
-observed in the reaction mixture after 20 min at 85°C. Prolonging the
+observed in the reaction mixture after 20 min at 85&deg;C. Prolonging the
 reaction time slowly increases the concentration of toluene (Table 1) with
 reduction of benzyl alcohol. This important observation provides evidence
 that reduction of aldehydes and ketones to hydrocarbons proceeds via the

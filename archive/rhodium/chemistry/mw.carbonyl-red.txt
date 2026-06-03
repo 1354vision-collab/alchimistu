@@ -101,7 +101,7 @@ Entry   R       R1                 to NaBH4 ratio    sec (a)     Yield (b)
         substrates with NaBH4-Al2O3 at room temperature.
 (b)     Unoptimized yields of isolated products that exhibited physical and
         spectral properties in accord with the assigned structures.
-(c)     In an oil bath at 130°C (temperature attained in MW oven. 2 min),
+(c)     In an oil bath at 130&deg;C (temperature attained in MW oven. 2 min),
         the reaction stopped at 40% conversion even after 4 h.
 
 	In conclusion, we have developed a facile and practical method for the
@@ -156,6 +156,6 @@ system, NaBH4-Al2O3, that is accelerated by microwave irradiation.
         1993, 58, 950. The temperature of the alumina bath (heat sink)
         inside a Sears Kenmore microwave oven (operating at 2450 MHz)
         equipped with a turntable at full power (900 Watts) found to be
-        ~70°C after 30 seconds of irradiation.
+        ~70&deg;C after 30 seconds of irradiation.
 
 --------------------------------------------------------------------------

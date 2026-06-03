@@ -11,7 +11,7 @@ molecules :-). Procedure:
 
 1) 100g Black Pepper, refluxed in MeOH for 20 min. Filter, Evap. MeOH to yield
    yellow crystals. Dissolve in Acetone, filter (If needed), then recrystallize
-   the Piperine, mp 131øC <- Not bad!
+   the Piperine, mp 131&deg;C <- Not bad!
 
 2) Piperine added to NaOH in MeOH. refluxed till MeOH is gone, leaving Sodium
    Piperidiene and Piperic Acid as a Brown tar, crystallizing to yellow gunk

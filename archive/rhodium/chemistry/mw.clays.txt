@@ -60,9 +60,9 @@ between the sheets. If the clay is heated (to around 100 C) so as to remove
 most of the interlamellar water until only 'one layer' of water remains, at
 about 5% total water level, the Bronsted acidity increases markedly to that
 of a very strong acid indeed. Heating to a higher temperature (at around
-200-300°C) results in collapse of the clay interlayer structure as the
+200-300&deg;C) results in collapse of the clay interlayer structure as the
 water is driven out, resulting in a decrease in Bronsted acidity but an
-increase in Lewis acidity. Further heating (to around 450°C and above)
+increase in Lewis acidity. Further heating (to around 450&deg;C and above)
 results eventually in complete dehydroxylation of the aluminosilicate
 lattice, producing a completely amorphous solid that retains Lewis acidity.
 
@@ -222,7 +222,7 @@ freshly prepared reagent: it loses about 40 % of its reactivity upon
 standing exposed to air for 4 h, or under n-pentane for 24 h.
 
 The thermal stability of Clayfen was investigated by differential
-calorimetric analysis. Above 59°C, it decomposes with an enthalpy release
+calorimetric analysis. Above 59&deg;C, it decomposes with an enthalpy release
 of ~ 20 cal/g. This is a first order process, with calculated half-lives of
 53 min at 69 C (in boiling n-hexane, for instance) or of 14 min at 80 C
 (the temperature of boiling benzene). In our experience the latter is the

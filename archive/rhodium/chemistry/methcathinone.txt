@@ -387,27 +387,27 @@ of laboratory grade [I use regular muriatic acid for pools -The Professor].
 
 Figure 1:
                    \     /
-                  жд\   /дд╥
+                  О©╫О©╫\   /О©╫д╥
                  ж╫        с╥   <--125 mL seperatory funnel
-                 ╨          ╨
-                 ╨          ╨
+                 О©╫          О©╫
+                 О©╫          О©╫
                  с╥        ж╫
-                  сд╥    жд╫        glass tubing д©
+                  О©╫д╥    О©╫д╫        glass tubing д©
                     с╥  ж╫                        
-                     ╨  ╨         иммммммммммммммм╩
-           stopcock->╨шш╨дд╢      ╨               ╨Salt and Hydrochloric acid
-stopper ->жддд╥     жп\/п╥      ждпд╥ <-1 hole    ╨mixed into a paste by add-
-          ╨ддд╨     ╨    ╨      ╨дрд╨    stopper  ╨ing HCL to salt and mixing.
-      жддд╫   сддддд╫    сдддддд╫ ╨ сддд╥         ╨The surface should be rough
-     ж╫                           ╨     с╥        ╨and a good number of holes
-     ╨                                   ╨        ╨should be poked into the
-     ╨       1000 mL, 3 neck flask       ╨        ╨paste for long lasting
-     ╨                                   ╨        ╨generation of HCl gas.
-     с╥   ддддддacid/salt levelдддддд   ж╫        ╨
-      сд╥                             жд╫         ╨
-        сдд╥                       ждд╫           ╨
-           сдддддд╥         ждддддд╫              ╨
-                  сддддддддд╫                     ╨
+                     О©╫  О©╫         О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫м╩
+           stopcock->О©╫О©╫ш╨О©╫д╢      О©╫               О©╫Salt and Hydrochloric acid
+stopper ->О©╫О©╫О©╫д╥     О©╫О©╫\/п╥      О©╫О©╫О©╫д╥ <-1 hole    О©╫mixed into a paste by add-
+          О©╫О©╫О©╫д╨     О©╫    О©╫      О©╫О©╫О©╫д╨    stopper  О©╫ing HCL to salt and mixing.
+      О©╫О©╫О©╫д╫   О©╫О©╫О©╫О©╫О©╫д╫    О©╫О©╫О©╫О©╫О©╫О©╫д╫ О©╫ О©╫О©╫О©╫д╥         О©╫The surface should be rough
+     ж╫                           О©╫     с╥        О©╫and a good number of holes
+     О©╫                                   О©╫        О©╫should be poked into the
+     О©╫       1000 mL, 3 neck flask       О©╫        О©╫paste for long lasting
+     О©╫                                   О©╫        О©╫generation of HCl gas.
+     с╥   О©╫О©╫О©╫О©╫О©╫О©╫acid/salt levelО©╫О©╫О©╫О©╫О©╫О©╫   ж╫        О©╫
+      О©╫д╥                             О©╫д╫         О©╫
+        О©╫О©╫д╥                       О©╫О©╫д╫           О©╫
+           О©╫О©╫О©╫О©╫О©╫О©╫д╥         О©╫О©╫О©╫О©╫О©╫О©╫д╫              О©╫
+                  О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д╫                     О©╫
 
 
     Some concentrated sulfuric acid (96-98%) is put into the sep funnel
@@ -451,22 +451,22 @@ poured over the top of the filter cake.
 
 
 Figure 2:
-                              зддддддддддд©
-                              Ё           Ё <-B│chner Funnel
-                              Ё___________Ё
+                              О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+                              О©╫           О©╫ <-B&deg;Chner Funnel
+                              О©╫___________О©╫
                               \           /
                                 \       /
                                   \   /
-                                 здддддд©
-                                 Ё      Ё╞╞╞╞ <--To vacuum
-                               зды      юд©
-                               Ё          Ё
-                               Ё          Ё
-                             зды          юд©
-              Filtering      Ё              Ё
-                  flask-->  зы              ю©
-                            Ё                Ё
-                            юдддддддддддддддды
+                                 О©╫О©╫О©╫О©╫О©╫О©╫д©
+                                 О©╫      О©╫О©╫О©╫О©╫О©╫ <--To vacuum
+                               О©╫О©╫О©╫      О©╫д©
+                               О©╫          О©╫
+                               О©╫          О©╫
+                             О©╫О©╫О©╫          О©╫д©
+              Filtering      О©╫              О©╫
+                  flask-->  О©╫О©╫              О©╫О©╫
+                            О©╫                О©╫
+                            О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 
     Now the vacuum hose is disconnected and the Buchner funnel, stopper

@@ -56,11 +56,11 @@ demonstrated. Additionally, we found that the related Clayan[15] is equally
 useful for nitration of styrene and its p-substituted derivatives.
 
 In a typical example, the neat styrene and Clayfen or Clayan are mixed well
-in a glass container and then heated in an oil bath (~100-110°C, 15 min) or
-irradiated in a microwave oven (~100-110°C, 3 min) in solid state (Eqn. 1).
+in a glass container and then heated in an oil bath (~100-110&deg;C, 15 min) or
+irradiated in a microwave oven (~100-110&deg;C, 3 min) in solid state (Eqn. 1).
 In the case of Clayfen, the reaction mixture is irradiated continuously for
 3 min whereas for Clayan intermittent warming is recommended with 30 second
-intervals (temperature should not exceed ~60-70°C).
+intervals (temperature should not exceed ~60-70&deg;C).
 
 	p-R-C6H4-CH=CH2 ==> p-R-C6H4-CH=CH-NO2 + p-R-C6H4-CHO	(Eqn. 1)
 
@@ -92,8 +92,8 @@ Using Clayan
 --------------------------------------------------------------------------------
 
 [a] Reaction conditions for Clayfen. either in oil bath (15 min) or in
-    microwave. MW. (3 min) at 100-110°C and for Clayan, either in oil bath
-    (15 min) or in MW (3 min) at 60-70°C
+    microwave. MW. (3 min) at 100-110&deg;C and for Clayan, either in oil bath
+    (15 min) or in MW (3 min) at 60-70&deg;C
 [b] The relative amounts of product formation are determined by GC-MS
     analysis and the results in the parentheses refer to the corresponding
     yields obtained using MW irradiation; the products are identified by

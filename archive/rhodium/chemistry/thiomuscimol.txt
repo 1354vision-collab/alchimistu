@@ -4,9 +4,9 @@ Thiomuscimol
 GABA-A receptor agonist
 
 5-(aminomethyl)-3-(2H)-isothiazolone
-Mol. Wt. 130.10; C4H13N3O2S; [62020-54-6]; White solid; mp 140°C
+Mol. Wt. 130.10; C4H13N3O2S; [62020-54-6]; White solid; mp 140&deg;C
 Soluble in water, slightly soluble in ethanol. Solutions may be stored 
-tightly sealed for several days at 4°C
+tightly sealed for several days at 4&deg;C
 
       O
        \\

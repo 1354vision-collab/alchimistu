@@ -276,7 +276,7 @@ often?
 
 The aromatic ether fraction of oil of nutmeg has been previously shown to 
 consist of eugenol (Ia), isoeugenol (IIa) safrole (Ic) and myristicin (Id). 
-Vacuum distillation yields a fraction (bp 109-112°C @1 mmHg; 60g from 
+Vacuum distillation yields a fraction (bp 109-112&deg;C @1 mmHg; 60g from 
 1000g of "W.I." oil of nutmeg (George Lueders and Co))  which consisted of 
 a substance heretofore accepted both clinically and pharmacologically as 
 the single compound, myristicin (Id).
@@ -308,7 +308,7 @@ No. 1 was easily identified as methyl isoeugenol (IIb) by its infra-red
 spectrum and direct comparison to a commercial sample. Peak No. 3 was to a 
 large extent trans-isomyristicin not removed by crystallization. The remaining 
 two peaks were isolated using a Beckman Megachrome preparative V.P.C. 
-instrument using a substrate of silicone 710, on firebrick at 220°C. 
+instrument using a substrate of silicone 710, on firebrick at 220&deg;C. 
 The presence of a methylenedioxy group (by nuclear magnetic resonance) and the 
 absence of absorption in the 963-967 cm-1 region of the infra-red spectrum of 
 peak 2 strongly suggested that the isomer might be cis-isomyristicin. That 
@@ -330,7 +330,7 @@ eugenol, has been unsuccessful.
 
 The implied presence of elemicin (Ie) in the original myristicin fraction was 
 confirmed by the successful separation of it from myristicin by low-temperature 
-chromatography (108°C, silicone 'SF-96'). Repeated fractional distillation was
+chromatography (108&deg;C, silicone 'SF-96'). Repeated fractional distillation was
 ineffective in increasing the myristicin content of this constant boiling 
 fraction over 70 percent. Consequently in assigning chemical and biological 
 properties to the substances as isolated from nutmeg, allowance must be made

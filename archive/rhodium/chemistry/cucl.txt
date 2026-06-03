@@ -107,7 +107,7 @@ It looks good, It's easy,It's done, I'm Happy
 
 -------------------------------------------------------------------------------
 
-Copper(I)-bromide (CuBr, mp 492°C, bp 1345°C)
+Copper(I)-bromide (CuBr, mp 492&deg;C, bp 1345&deg;C)
 
 CuBr forms when copper is dissolved in etherical HBr, at first the dietherate
 of a bromo acid HCuBr2 is built (yellow oil). when decomposed with water, CuBr
@@ -139,9 +139,9 @@ has also been used as a reducing agent in a more recent process [74].
 
 Production of copper(I) chloride by treatment of ores with iron(III) chloride
 solutions [75] , [76] and recovery of the product through chlorination in pit
-furnaces above 800 °C [77] have also been attempted.
+furnaces above 800 &deg;C [77] have also been attempted.
 
-[71]  R. Keller, H. Wycoff, Inorg. Synth. 2 (1946) 1–4.
+[71]  R. Keller, H. Wycoff, Inorg. Synth. 2 (1946) 1ï¿½4.
 [72]  Schering, DE 1 080 088, 1958 (H. Niemann, K. Herrmann).
 [73]  Harshaw, US 2 367 153, 1945 (C. Swinehart).
 [74]  Goldschmidt, DE 3 305 545, 1983 (E. Mack, L. Witzke).

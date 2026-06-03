@@ -19,15 +19,15 @@ roempp-cd-rom: piperin
 
 Remsen
 
-Ira (18461927), Prof. für Organ. Chemie, Johns Hopkins Univ., Baltimore (USA). 
+Ira (18461927), Prof. fï¿½r Organ. Chemie, Johns Hopkins Univ., Baltimore (USA). 
 Arbeitsgebiete: Entdeckung des Saccharins (zusammen mit Fahlberg), Konstitution von Piperin, 
-Begründer des American Chemical Journal.
+Begrï¿½nder des American Chemical Journal.
 
-Lit.: Chem. Unserer Zeit 20, A 37, 47 (1986) ï Neufeldt, S. 71 ï Pötsch, S. 360.
+Lit.: Chem. Unserer Zeit 20, A 37, 47 (1986) ï¿½ Neufeldt, S. 71 ï¿½ Pï¿½tsch, S. 360.
 
 
 
-Quelle: Römpp Lexikon Chemie  Version 2.0, Stuttgart/New York: Georg Thieme Verlag 1999
+Quelle: Rï¿½mpp Lexikon Chemie  Version 2.0, Stuttgart/New York: Georg Thieme Verlag 1999
 ------------------------------------------------------------------------------------------
 refs: piperin isolation
 =======================
@@ -75,7 +75,7 @@ people contributed to modern medicine.
 
 
                                       For further information contact:  director@thioxazobiotechlab.com 
-                                                               ©copy rights reserved
+                                                               &deg;Copy rights reserved
 ------------------------------------------------------------------------------------------
 http://www.aluinfo.de/download/Arbeitsblaetter(1).pdf
 
@@ -105,7 +105,7 @@ PMID: 6885950 [PubMed - indexed for MEDLINE]
 
 http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6885950&dopt=Abstract
 ------------------------------------------------------------------------------------------
-L. Rügheimer, " Künstliches Piperin ", Ber.  15 1390 (1882)
+L. Rï¿½gheimer, " Kï¿½nstliches Piperin ", Ber.  15 1390 (1882)
 ------------------------------------------------------------------------------------------
 Supercritical fluid extraction in the quality control of piperine.
 
@@ -125,7 +125,7 @@ by org. solvent extn.
 from CA 2002:
 =============
 
-The process comprises extg. pepper with mixed solvent at 25-40° for 1-6 h, filtering, 
+The process comprises extg. pepper with mixed solvent at 25-40ï¿½ for 1-6 h, filtering, 
 concg., crystg., and recrystg. with dichloroethylene or Et acetate.  The mixed solvent is 
 ethanol, methanol, acetone, Et ether, Et acetate, dichloromethane, benzene, and/or 
 chloroform.
@@ -179,7 +179,7 @@ Section: 37 (Plastics Manufacture and Processing)
 
 The process comprises: smashing dried black (or white) pepper to powder with av. diam. <2 
 mm, mixing the powder with mixed org. solvent with a ratio of solvent/pepper=1/1-6/1, 
-stirring the mixt. at 25-40° for 1-6 h, sepg. by filtering to obtain leaching liquor, distg. 
+stirring the mixt. at 25-40ï¿½ for 1-6 h, sepg. by filtering to obtain leaching liquor, distg. 
 to remove org. solvent and collecting the resin contg. high piperine, wherein the solvent is 
 selected form ethanol, methanol, acetone, Et ether, Et acetate, ethylene dichloride, benzene 
 and trichloromethane.

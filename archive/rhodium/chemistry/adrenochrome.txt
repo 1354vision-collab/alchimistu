@@ -46,22 +46,22 @@ Psychotropic Drugs p.10, 1957
 Opinions that adrenochrome is not active:
 Lancet, I 1287, 1960.
 
-In Nature 191, 245, ’61 it was pointed out that adrenochrome may have
+In Nature 191, 245, ï¿½61 it was pointed out that adrenochrome may have
 significance as a hallucinogen, since it is an in vitro glutamic acid
 decarboxylase and cholinesterase inhibitor.
 
 It has also been described as having a wide range of other physiological
-activites, as reviewed in Pharmacol. Rev. 1, 1, ’49 and Fortschr. Chem. Org.
-Naturstoffe. 14, 217, ’57
+activites, as reviewed in Pharmacol. Rev. 1, 1, ï¿½49 and Fortschr. Chem. Org.
+Naturstoffe. 14, 217, ï¿½57
 
 Of course, most of this work was done under conditions that would be considered
 primitive today, and there is not absolute certainty that all research groups
 were working with the same compound. Originally, adrenochrome was prepared by
 oxidation of adrenalin with catechol oxidase or silver oxide. The chemistry of
-its preparation is reviewed in Chem. Rev. 59, 181, ’59.
+its preparation is reviewed in Chem. Rev. 59, 181, ï¿½59.
 
 Additionally, adrenochrome semicarbazone has been claimed to have hallucinogenic
-properties similar to the parent substance: Acta Chem. Scand. 12, 1231, ’58. It
+properties similar to the parent substance: Acta Chem. Scand. 12, 1231, ï¿½58. It
 certainly would be interesting to apply modern techniques to this mystery and
 settle it once and for all. Anyone looking for a research project?
 
@@ -289,7 +289,7 @@ Reaction Details 1 of 2
 Reaction Classification Chemical behaviour
 Reagent VOCl2, O2
 Solvent H2O
-Temperature 25 øC
+Temperature 25 &deg;C
 Other conditions dependence of rate constant on pH, adrenaline concentration,
 VOCl2 concentration; ionic strength: 0.100 mol dm%-3& (KNO3)
 Subject studied Rate constant
@@ -319,7 +319,7 @@ Reaction Details
 Reaction Classification Chemical behaviour
 Solvent D2O
 Time 350 min
-Temperature 24.9 øC
+Temperature 24.9 &deg;C
 Other conditions Irradiation
 other sensitizers: methylene blue, rose bengal, fluoresceine, superoxide
 dismutase; other inhibitors: 1,3-diphenylisobenzofuran,
@@ -373,7 +373,7 @@ Reagent K3Fe(CN)6
 Solvent acetic acid
 H2O
 Time 5 min
-Temperature 5 øC
+Temperature 5 &deg;C
 Ref. 1 5676615; Journal; Kato, Eishin; Oya, Masayuki; Uda, Kozo; Iso, Tadashi;
 Fujita, Tadashi; Iwao, Jun-Ichi; CPBTAL;
 Chem.Pharm.Bull.; EN; 29; 7; 1981; 1935-1941;
@@ -390,7 +390,7 @@ Reaction Details
 Reaction Classification Chemical behaviour
 Reagent Fe(NO3)3, KNO3
 Solvent H2O
-Temperature 25 øC
+Temperature 25 &deg;C
 Subject studied Rate constant
 Ref. 1 5856275; Journal; Linert, Wolfgang; Herlinger, Erwin; Jameson, Reginald
 F.; JCPKBH; J.Chem.Soc.Perkin Trans.2; EN; 12; 1993; 2435-2439;

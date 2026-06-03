@@ -92,7 +92,7 @@ The reduction started after the addition of some HgCl2 and was completed by
 heating on a warm water bath after standing for two hours at room temp.
 Workup was done in an analogous manner to the oxime (apparently filtration,
 solvent removal under vacuum and an acid-base extraction).
-0.58g was obtained after distillation at 1mmHg, 80-110° air bath temperature.
+0.58g was obtained after distillation at 1mmHg, 80-110ï¿½ air bath temperature.
 From that 0.67g of the picrate was obtained.
 
 --------------------------------------------------------------------------------
@@ -139,7 +139,7 @@ DCM.
 The solvent was removed by destillation, leaving VERY LITTLE of
 "something", 15ml anhydrous acetone was added and 2-3 small drops of 98%
 sulfuric acid, crystals percipitated. But we are talking about a yield in
-the 100mg range… The chemist dumped it all out, being more of a curios
+the 100mg rangeï¿½ The chemist dumped it all out, being more of a curios
 chemist then a desperate speedhead.
 
 The washings was also stripped from solvent by destillation and then dumped
@@ -155,7 +155,7 @@ Zn/Hg Nitrostyrene reduction
 To suspension 1.5 g of 5-bromo-1,3-dimethoxy-omega-nitrostyrene in 20 ml of
 aqueous MeOH (1:1) was added 4.5 g. HCl (d=1.19) and 0.3 ml 5% aqueous HgCl2
 soln. Under stirring this was reduced with 5 g. of Zn dust, previosly amalgamated
-with 0.3 ml 5% HgCl2 soln, adding Zn in portions at 30-35°C during 30 min. After
+with 0.3 ml 5% HgCl2 soln, adding Zn in portions at 30-35&deg;C during 30 min. After
 addition completing, the reaction mass was heated to 45-50C and kept at this
 temp under stirring during 30 min. Unreacted Zn was removed, filtrate basified
 with 10% NaOH untill all deposited Zn(OH)2 was dissolved. Base was extracted
@@ -230,9 +230,9 @@ another 150ml :). I putted the condensor on the flask and all was immersed
 in ice cold water!! (very important) Then i added slowly, in 10ml steps
 100ml of a solution of (100ml 31% HCl and 50ml H2O), i didn't have 25% HCl.
 
-The reaction TE climbed to 50°. To keep up the generation of bubbles i
+The reaction TE climbed to 50ï¿½. To keep up the generation of bubbles i
 added after 45 min the last 50 ml of HCl slowly in 10ml steps. The whole
-mixture colled down to 20° and i let stand everything over night. Next day
+mixture colled down to 20ï¿½ and i let stand everything over night. Next day
 i made all very basic through slowly addition of 50% NaOH (~100ml). When i
 saw that with the addition of NaOH generated other bubbles,so i let
 everything stand again for 4h. Then i filtered the whole solution with a
@@ -250,8 +250,8 @@ Now i made the sulfate salt instead of the HCl salt, because the sulfate is
 not so soluble in water (1part in 8.8parts of H2O). I added 2ml of the oil
 to 20ml of ether and a few drops of 96% H2SO4, i got amorphic crystals.
 
-I tried with 20ml den. 90° ethanol, again only amorphic crystals, maybe to
-many impurities, so one should distill the amphetamine freebase at 102°(13)
+I tried with 20ml den. 90ï¿½ ethanol, again only amorphic crystals, maybe to
+many impurities, so one should distill the amphetamine freebase at 102ï¿½(13)
 under vaccuum. I couldn't, because my vaccum setup exploded a week ago.
 
 (while heating a mixture under vacuum i didn't realize, that the water trap
@@ -287,7 +287,7 @@ It is impossible for me to get methanol and pure isopropylalcohol without
 acetone (i can get tetrahydrofurane or ethyl ether like distilled water,
 but so funny it sounds no mathanol and 1l pure isopropyl alcohol costs like
 95% ethanol). Is there a possibility to eliminate all chemicals beside
-methanol and ethanol, and what does denaturated 1°category mean?
+methanol and ethanol, and what does denaturated 1&deg;Category mean?
 
 If the TE of such a reduction is kept low, will this reduction work for
 MD-P2NP and is it possible to make a sulfate salt of MDA with a low

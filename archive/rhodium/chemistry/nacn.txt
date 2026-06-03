@@ -13,7 +13,7 @@ of flask 40 cm glass tube (1-1.5 cm diameter) as deflegmator & condenser, attach
 silicon rubber hose and place the end (of hose, of course) in 181 ml 45% NaOH 
 soln. After 10-min heating at boiling water bath, a strong gas evolution begins; 
 be careful, do it only under good fume hood. From time to time stir NaOH soln 
-in receiver flask (this soln may heated up to 80°C, this is doesn't matter - 
+in receiver flask (this soln may heated up to 80&deg;C, this is doesn't matter - 
 don't cool). After 1-1:10 reaction complete, no more gas evolution observed. 
 Voila, you get near 260-280 ml 40% NaCN soln. 
 

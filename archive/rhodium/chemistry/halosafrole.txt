@@ -72,9 +72,9 @@ dump it in. And whatever you do save whats in the recieving side.
 Mainly i used to buy the 33% HBr in GAA from a chem supplier, but I also bought
 anhydrous HBr gas in cylinders and would make the solution myself. Both worked
 great, but I dont know how easy it is to aquire some nowadays - I dont have that
-problem. At around 20mmHg the bromosafrole would start distill at 175-185°C and
-continue to rise slowly until it reached 212°C, where decomposition occurred.
-I generally  would stop at 205°C, but sometimes it decomposes even if you're
+problem. At around 20mmHg the bromosafrole would start distill at 175-185&deg;C and
+continue to rise slowly until it reached 212&deg;C, where decomposition occurred.
+I generally  would stop at 205&deg;C, but sometimes it decomposes even if you're
 careful.  I suggest you to be prepared, and check for vaccuum leaks very
 carefully. Bromosafrole is generally a clear, reddish-brown sweet-smelling oil.
 
@@ -467,7 +467,7 @@ As the dry HCI passes into the solution, it dehydrates the 48% HBr, causing
 it to react with the safrole. The dehydration and the reaction both generate
 a good deal of heat, so fresh ice will periodically have to be put into the
 bath around the reaction flask.  The temperature of the reaction shouldn't
-be allowed to rise above 10-15° C. The reaction mixture first turns green
+be allowed to rise above 10-15ï¿½ C. The reaction mixture first turns green
 then blue, then purple, and finally burgundy.  When the bubbling with dry
 HCl is finished, stopper the flask and continue stirring in the cold for two
 days. Sometime around a day into this stirring, no separation of phases can
@@ -501,8 +501,8 @@ more bicarb to make sure all the acid has be neutralized.
 
 Separate the toluene-bromosafrole, and place it in a distilling flask. Distill
 off the toluene at normal pressure, then vacuum-distill the remaining
-bromosafrole.  A vacuum that distills safrole at 110°C will distill
-bromosafrole at about 140-145° C. Some chlorosafrole distills at about 125°C.
+bromosafrole.  A vacuum that distills safrole at 110&deg;C will distill
+bromosafrole at about 140-145ï¿½ C. Some chlorosafrole distills at about 125&deg;C.
 It can be used as is, or the chlorosafrole can be converted to iodosafarole
 according to the directions found in the "Psychedelic Amphetamine" chapter in
 this book.  The yield is about 66-75% conversion to bromosafrole, with the
@@ -1058,14 +1058,14 @@ JOC 45, 3527-3529 (1980)
 
 16.2 grams (0.1 mole) of safrole was added to a mixture of 50 ml 37% HCl
 (0.5 mole) and 4.0 grams (0.01 mole) of trioctylmethylammonium chloride
-(Aliquat 336), and the two-phase mixture was heated at 115°C (bath temp)
+(Aliquat 336), and the two-phase mixture was heated at 115&deg;C (bath temp)
 with magnetic stirring for two hours. The solution was extracted with
 1x20ml and 2x10ml CH2Cl2, and the pooled extracts was freed from solvent
 by evaporation. The dark residue was distilled under aspirator vacuum
 which gave two fractions:
 
-113-135°C - 10.1 grams - Clear, safrole + chlorosafrole
-135-165°C - 4.8 grams - Cloudy, chlorosafrole + something.
+113-135&deg;C - 10.1 grams - Clear, safrole + chlorosafrole
+135-165&deg;C - 4.8 grams - Cloudy, chlorosafrole + something.
 
 
 Chlorosafrole II
@@ -1077,7 +1077,7 @@ The solution was left to cool, and it was extracted with 3x15 ml DCM. The
 pooled organic extracts was washed with a little dilute Na2CO3, dried over
 MgSO4, and the solvent removed by evaporation. The black residue was
 vacuum distilled at 3 mmHg to yield 10.2 grams of clear 2-chlorosafrole
-at 130-150°C. There was also quite a lot of deep red residue in the
+at 130-150&deg;C. There was also quite a lot of deep red residue in the
 distillation flask, probably consisting of the PTC and various
 polymerization products.
 
@@ -1090,13 +1090,13 @@ US Pat 3,864,115
 
 Preparation of Bromosafrole
 
-65 grams of safrole was dissolved in 100 ml of glacial acetic acid. At 20°C,
+65 grams of safrole was dissolved in 100 ml of glacial acetic acid. At 20&deg;C,
 there was added, with stirring, a solution of 100g HBr in glacial acetic
 acid. Stirring was continued for a further 12 hours at room temperature and
 the acetic acid was distilled off under vacuum. The residue was taken up in
 200 ml of benzene and washing was effected several times with, in each case
 100 ml of water. The benzene solution was dried over sodium sulfate. When
-fractionation was effected, 43 grams of bromosafrole of the bp 90°C at
+fractionation was effected, 43 grams of bromosafrole of the bp 90&deg;C at
 0.05 mmHg was obtained.
 
 This is the corresponding U.S. patent of the original German patent.
@@ -1485,7 +1485,7 @@ Experimental:
 2-Bromodillapiole
 
 Dillapiole (11.1g, 0.05 mol) in dry DMF (100 ml) was saturated with dry HBr at
-0°C. After keeping for 2hr, it was poured into ice-cold water (300ml), extracted
+0&deg;C. After keeping for 2hr, it was poured into ice-cold water (300ml), extracted
 with CHCl3, the organic layer washed with H2O until neutral, dried over anhydrous
 Na2SO4 and evaporated to furnish 2-Bromodillapiole (14.9g).
 
@@ -1519,10 +1519,10 @@ therefor is best characterized as the monobromocompound.
 The above produced dibromo compound is carefully thermally decomposed in a
 standard vacuum distillation rig using an oil bath. Since copious quantities
 of HBr are produced as decomposition product it only make sense to use a water
-aspirator as vacuum source. When pot contents reach approximately 100°C
+aspirator as vacuum source. When pot contents reach approximately 100&deg;C
 dehalogenation takes place and 2-bromosafrole starts to distil over. Depending
 on vacuum, rxn. may start at lower temp. Do not allow pot contents to excede
-130°C or glassware will rapidly fill with charcoal from uncontrolled
+130&deg;C or glassware will rapidly fill with charcoal from uncontrolled
 decomposition! Yield of water white 2-bromosafrole was found to be
 in the 80-90% range.
 
@@ -1567,9 +1567,9 @@ benzene (2cc of 0.3N), and benzene (100ml) was saturated with hydrogen bromide
 (2 hours). On each of the next 7 days perbenzoic acid solution (1ml) was added,
 and the mixture shaken and kept for 17 days. The mixture was then washed with water,
 dilute aqueous sodium carbonate, and again water and the benzene layer was separated,
-dried, and distilled. The fraction (6.5g, bp 145.5-153°C/9.5mmHg) was a colourless,
+dried, and distilled. The fraction (6.5g, bp 145.5-153&deg;C/9.5mmHg) was a colourless,
 mobile liquid and was identified as the known safrole hydrobromide; Robinson and
-Zaki (J, 1937, 2489) give bp 160°C/16mmHg.
+Zaki (J, 1937, 2489) give bp 160&deg;C/16mmHg.
 
 The same beta-bromodihydrosafrole was obtained in both cases. The product was
 identical with the hydrobromide made under ordinary conditions and it did not react
@@ -1595,26 +1595,26 @@ Derivatives of amphetamine. E. Muszynski (Akad. Med.. Warsaw).
 CA 58:3334 (1963); Acta Polon. Pharm. 18, 471-8 (1961) (in Polish).
 
 Safrole (10 g.) and 0.1 g. HgCl2 in 5 vols. AcOH was satd. with HBr. left 2 days
-at 0°, neutralized with NaHCO3, extd. with Et2O, and distd. to give 73.3%
-1-(3,4-methylenedioxyphenyl)-2-bromopropane (I), b15 162-5°. nD16 1.5628.
+at 0ï¿½, neutralized with NaHCO3, extd. with Et2O, and distd. to give 73.3%
+1-(3,4-methylenedioxyphenyl)-2-bromopropane (I), b15 162-5ï¿½. nD16 1.5628.
 
 Methyleugenol (II) brominated analogously gave 36.5%
-1-(3,4-dimethoxyphenyl)-2-bromopropane (III), b10 171-2° nD18 1.5614.
+1-(3,4-dimethoxyphenyl)-2-bromopropane (III), b10 171-2ï¿½ nD18 1.5614.
 
-I (7.3 g.), 36 g. 10% alc. NH3, and 0.8 g. Cu2O heated 7 hrs. at 160°, alkalised to pH 9
+I (7.3 g.), 36 g. 10% alc. NH3, and 0.8 g. Cu2O heated 7 hrs. at 160ï¿½, alkalised to pH 9
 with 40% NaOH. extd. with Et2O, and the ext. treated with 1:1 H2SO4-EtOH gave 1 g.
 1-(3,4-methylenedioxyphenyl)-2-aminopropane sulfate, and 4.2 g. unchanged I.
 
-II (2.9 g.) added at 0° to 9.3 g. 70% HBr, the mixt. left 12 hrs. at 0°, hydrolyzed, extd.
+II (2.9 g.) added at 0ï¿½ to 9.3 g. 70% HBr, the mixt. left 12 hrs. at 0ï¿½, hydrolyzed, extd.
 with Et2O, and the ext. distd. yielded 80.9% III. III (10 g.) treated similarly with NH3
 gave 3.4 g. 1-(3,4-dimethoxyphenyl)-2-aminopropane sulfate and recovered 4.9 g. III.
 Acetyleugenol (63.6 g.) in 80 ml. AcOH oxidized 5 hrs. with 256 g. KMnO4, the MnO2
 filtered off, the filtrate concd. to 800 ml., treated with 40 g. KOH, refluxed 90 min.,
 acidified with 50% H2SO4 to Congo red, evapd. to dryness, and the residue extd. with
-Et2O yielded 41.5 g. homovanillic acid (IV), m. 142°. IV (33.5 g.), 21.8 g. KOH, 25 ml.
+Et2O yielded 41.5 g. homovanillic acid (IV), m. 142ï¿½. IV (33.5 g.), 21.8 g. KOH, 25 ml.
 EtOH, and 55.3 g. MeI refluxed 1 hr., treated with 11 g. KOH, refluxed 1 hr., cooled,
 filtered, acidified with HCl, and extd. with Et2O gave 33.9 g. homoveratric acid (V),
-m. 97°. V (20 g.) in 13 ml. AcOH passed at 430-50° through ThO2 on pumice yielded
+m. 97ï¿½. V (20 g.) in 13 ml. AcOH passed at 430-50ï¿½ through ThO2 on pumice yielded
 30.8% 3,4-dimethoxyphenylacetone.
 
 --------------------------------------------------------------------------------

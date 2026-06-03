@@ -97,26 +97,26 @@ fitted with a one-hole stopper holding an efficient fractionating column
 may be employed. The mixture in the flask is heated to gentle boiling and
 the flame so regulated that the rate of distillation does not exceed 180
 cc. per hour. The distillation is continued in this way for eight to ten
-hours, until the temperature at the head of the column reaches 110ø. The
+hours, until the temperature at the head of the column reaches 110ï¿½. The
 distillate, which is a mixture of water and acetic acid, amounts to
 1400-1500 cc. The receiver is changed, the flame under the flask is
 gradually increased, and the distillation is continued at about the same
-rate until the temperature at the head of the column rises to 140ø. The
+rate until the temperature at the head of the column rises to 140ï¿½. The
 distillate, which amounts to 500-700 cc., is largely acetic acid and may be
 used in the next run.
 
     The contents of the flask are transferred to a 2-l. flask for
 fractional distillation, having a column 40 50 cm. long, and distilled
 under atmospheric pressure, using an air condenser. The fraction boiling
-below 210ø, amounting to 250-300 cc., is collected separately. The material
+below 210ï¿½, amounting to 250-300 cc., is collected separately. The material
 remaining in the flask is nearly pure acetamide and may all be distilled,
-1150-1200 g. passing over at 210-216ø. By redistilling the fraction boiling
-below 210ø, the yield may be increased to 1200-1250 g. (87-90 per cent of
+1150-1200 g. passing over at 210-216ï¿½. By redistilling the fraction boiling
+below 210ï¿½, the yield may be increased to 1200-1250 g. (87-90 per cent of
 the theoretical amount). The acetamide thus obtained is pure enough for
 most purposes, but if a purer product is desired it may be recrystallized
 from a mixture of benzene and ethyl acetate; 1 1. of benzene and 300 cc. of
 ethyl acetate are used for 1 kg of acetamide (Note 2). Colorless needles
-melting at 81ø are thus obtained (Note 3). The solvent and the acetamide it
+melting at 81ï¿½ are thus obtained (Note 3). The solvent and the acetamide it
 contains may be recovered by distillation.
 
                                   2. Notes
@@ -140,14 +140,14 @@ air unless precautions are taken to have the air dry.
     Acetamide can be prepared by the rapid distillation of ammonium acetate
 (2) by heating ammonium acetate in a sealed tube and distilling the product
 (3) by treating acetic anhydride with ammonia (4) by heating a mixture of
-ammonium chloride and sodium acetate to 240ø (5) by the action of cold
+ammonium chloride and sodium acetate to 240ï¿½ (5) by the action of cold
 aqueous ammonia on ethyl acetate (6) by boiling a mixture of glacial acetic
 acid and ammonium thiocyanate for four days (7) by saturating glacial
 acetic acid with dry ammonia and then refluxing (3) by distillation of
 ammonium acetate through a reflux condenser filled first with glacial
 acetic acid and then with aniline until the temperature of the mixture
-reaches 220ø (9) by passing a stream of ammonia through heated acetic acid
-(10) and from formamide and hydrogen at 200-500ø (11).
+reaches 220ï¿½ (9) by passing a stream of ammonia through heated acetic acid
+(10) and from formamide and hydrogen at 200-500ï¿½ (11).
 
     The procedure described is based on the method of Noyes and Goebel (12)
 in which equimolecular proportions of ammonium acetate and acetic acid are
@@ -165,7 +165,7 @@ dehydration of ammonium acetate and the hydrolysis of acetamide.
     9  Franeois, J. pharm. ehim. (6) 23, 230 (1906) [Chem. Zentr. I, 1089
        (1906)].
     10 Mitchell and Reid, J. Am. Chem. Soc. 53, 1879 (1931).
-    11 Soc. franchise de catalyse g‚n‚ralis‚e, Fr. pat. 708,084 [C. A. 26,
+    11 Soc. franchise de catalyse gï¿½nï¿½ralisï¿½e, Fr. pat. 708,084 [C. A. 26,
        995 (1932)].
     12 Noyes and Goebel J. Am. Chem. Soc. 44, 2286 (1922); Rosanoff,
        Guliek, and Larkin, ibid. 33, 97i (1911): Hitch and Gilbert. ibid.
@@ -184,12 +184,12 @@ that?". Aside from purchasing it, its incredibly easy to make! Here's how:
 Erlenmeyer flask. A stirbar is added, and the flask is stoppered. The flask
 is stirred at room temperature for three days. At this point the contents
 of the flask is distilled. At standard pressure, aceamide will distill over
-between 200-220°C. If a vacuum is used (highly recomended), pure acetamide
-distills at 158°C (100 torr), 136°C (40 torr), 120°C (20 torr), 105°C 
-(10 torr), or 92°C (5 torr).
+between 200-220&deg;C. If a vacuum is used (highly recomended), pure acetamide
+distills at 158&deg;C (100 torr), 136&deg;C (40 torr), 120&deg;C (20 torr), 105&deg;C 
+(10 torr), or 92&deg;C (5 torr).
 
 Acetamide is a white, crystalline substance substance that readily disolves
-in water. It has a melting point of 81°C.
+in water. It has a melting point of 81&deg;C.
 
 -------------------------------------------------------------------------------
 

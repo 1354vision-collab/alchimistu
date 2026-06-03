@@ -1,26 +1,26 @@
 isolierung von piperin aus schwarzem pfeffer
 ============================================
 
-durchführung
+durchfï¿½hrung
 ------------
 In einer Heissdampfextraktionsapparatur mit 250 ml NS 29-Rundkolben, Extrak- 
-tionsaufsatz und NS 29-Rückflusskühler werden 12 g gemahlenen Pfeffer in die 
-Extraktionshülse gefüllt und mit etwas Filterwatte abgedeckt. Über den Rückfluss- 
-kühler werden 100 ml Essigsäureethylester langsam eingefüllt und 5 h unter 
-kräftigem Rückfluss extrahiert.
+tionsaufsatz und NS 29-R&deg;Ckflusskï¿½hler werden 12 g gemahlenen Pfeffer in die 
+Extraktionshï¿½lse gefï¿½llt und mit etwas Filterwatte abgedeckt. ï¿½ber den R&deg;Ckfluss- 
+kï¿½hler werden 100 ml Essigsï¿½ureethylester langsam eingefï¿½llt und 5 h unter 
+krï¿½ftigem R&deg;Ckfluss extrahiert.
 
 isolierung und reinigung
 ------------------------
-Nach dem Abkühlen wird das Lösungsmittel aus dem Rundkolben am Rotations- 
-verdampfer unter vermindertem Druck abdestilliert (->R1). Der Rückstand wird 
-mit einer Lösung von 1.2 g Kaliumhydroxid in 12 ml 50 %igen wässrigem 
-Ethanol versetzt und über einen kleinen Trichter mit Filterpapier in einen 25 ml 
+Nach dem Abkï¿½hlen wird das Lï¿½sungsmittel aus dem Rundkolben am Rotations- 
+verdampfer unter vermindertem Druck abdestilliert (->R1). Der R&deg;Ckstand wird 
+mit einer Lï¿½sung von 1.2 g Kaliumhydroxid in 12 ml 50 %igen wï¿½ssrigem 
+Ethanol versetzt und ï¿½ber einen kleinen Trichter mit Filterpapier in einen 25 ml 
 Erlenmeyerkolben filtriert. Der Erlenmeyerkolben wird mit einem Gummi- oder 
-Korkstopfen verschlossen und über Nacht in den Kühlschrank gestellt. 
-Dabei scheiden sich gelbe Kristalle ab, die über einen Hirschtrichter abgesaugt, 
-mit wenig Eiswasser gewaschen (->E1) und im Vakuumexsikkator über 
+Korkstopfen verschlossen und ï¿½ber Nacht in den Kï¿½hlschrank gestellt. 
+Dabei scheiden sich gelbe Kristalle ab, die ï¿½ber einen Hirschtrichter abgesaugt, 
+mit wenig Eiswasser gewaschen (->E1) und im Vakuumexsikkator ï¿½ber 
 Kieselgel ("Orangegel") getrocknet werden. 
-Ausbeute Reinprodukt: ca. 0.3 g gelbe Kristalle, Schmp. 125-126 °C.
+Ausbeute Reinprodukt: ca. 0.3 g gelbe Kristalle, Schmp. 125-126 &deg;C.
 
 
 [http://rchsg19.uni-regensburg.de/OCP/skript/prakt/OCP1BioLA.pdf]

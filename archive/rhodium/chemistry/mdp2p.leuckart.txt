@@ -6,8 +6,8 @@ Subject: mdma syntesis problem
 
 > in "chemical abstracts 52, 11965 (1985) manufacture of extacy"
 >
-> "Add 23g of above ketone to 65g formamide and heat at 190° for 5 hours."
-> Question - Is it 190°C or 190°F, and how would this heating practically be
+> "Add 23g of above ketone to 65g formamide and heat at 190ï¿½ for 5 hours."
+> Question - Is it 190&deg;C or 190ï¿½F, and how would this heating practically be
 > done? reflux or pipebomb?
 
 Don't ever try anything like that, but it's 190 Centigrade, and you use a reflux
@@ -34,7 +34,7 @@ distillation apparatus and driving off all the H2O that is formed.
 Cherrie Baby:
 
 Towards the Rehabilitation of the Leuckart Reductive Amination Reaction using 
-Microwave Technology. André Loupy et al, Tetr. Lett. 37(45), p 8177-80 (1996).
+Microwave Technology. Andrï¿½ Loupy et al, Tetr. Lett. 37(45), p 8177-80 (1996).
 
 Abstract: The Leuckart reductive amination of carbonyl compounds was dramatically 
 enhanced with respect to conventional heating by a specific microwave effect 
@@ -60,7 +60,7 @@ filtration on Florisil and solvent evaporation.
 Notes:
 [1]. Formamide was found to give better yields than Ammonium formate 
      (between 2% - 10% higher).
-[2]. temperature range ~ 180° to 210° C. The temperature was continuously 
+[2]. temperature range ~ 180ï¿½ to 210ï¿½ C. The temperature was continuously 
      measured and controlled by IR detection [Jacqualt, pat # 549495 AI (1992)]
 [3]. The reaction time was 30 minutes in total.
 [4]. In some cases the reaction seemed to restart when fresh formamide-formic 
@@ -131,17 +131,17 @@ This method is used in the past in Europe on huge scale to make MDMA:
 
 [1] 150 L MDP2P + 400 L NMF + 75 L Formic acid :
 
-heat to 190°C (at 140°C H2O + Formic acid comes over) for about 6 Hrs. until
+heat to 190&deg;C (at 140&deg;C H2O + Formic acid comes over) for about 6 Hrs. until
 smell of Ammonia-gas is present at the collecting flask. No vacuum! Let cool and
 wash with 350 L water to get rid of excess NMF. Tap off 160 L oil and extract
-the remaining water with 2 x 30 L DCM. Cook off that DCM at 60°C and 200 mm Hg.
+the remaining water with 2 x 30 L DCM. Cook off that DCM at 60&deg;C and 200 mm Hg.
 Add the 20 L extra oil to the 160 L = 180 L.
 
 [2] Cook with HCl : Hydrolysis.
 
-180 L oil + 100 L methanol + (250 L HCl 36% + 550 L H2O): Mix and cook. At 60-65°C
+180 L oil + 100 L methanol + (250 L HCl 36% + 550 L H2O): Mix and cook. At 60-65&deg;C
 MeOH distills over, after that go to 95 C and stay there for 3 Hrs. You make now
-the chloride salt, which dissolves in the water part. Let cool off to 40°C and
+the chloride salt, which dissolves in the water part. Let cool off to 40&deg;C and
 extract with 40 L DCM. THROW AWAY THE DCM extract, this is full of impurities.
 KEEP the water-part!
 
@@ -154,7 +154,7 @@ distill off the DCM to get raw base.
 
 [4] Distillate.
 
-At 4 mm Hg (or any other good vacuum) and 145°C you distillate the raw base to
+At 4 mm Hg (or any other good vacuum) and 145&deg;C you distillate the raw base to
 get the clean base. (first remove DCM and water).
 
 [5] Crystalls.

@@ -5,22 +5,22 @@ Piperidin
  
 F, T
 C5H11N, MR 85,14. Farblose, leicht brennbare, fischig bis Ammoniak-artig 
-riechende Flüssigkeit, D. 0,8622, Schmp. -13 °C, Sdp. 106 °C, FP. 16 °C mit 
-Wasser mischbar, lösl. in Alkohol, Ether, Benzol, Chloroform; WGK 2 
+riechende Flï¿½ssigkeit, D. 0,8622, Schmp. -13 &deg;C, Sdp. 106 &deg;C, FP. 16 &deg;C mit 
+Wasser mischbar, lï¿½sl. in Alkohol, Ether, Benzol, Chloroform; WGK 2 
 (Selbsteinst.). P. ist bas., bildet Komplexe mit Schwermetall-Salzen u. 
-reduziert ammoniakal. Silbernitrat-Lösung. Die Dämpfe reizen u. schädigen 
-stark die Augen, die Atemwege sowie die Lunge u. verätzen außerdem die Haut; 
-Lungenödem möglich. Kontakt mit der Flüssigkeit bewirkt sehr starke Reizung 
-der Augen sowie der Haut; P. wird auch über die Haut aufgenommen. Das 
-P.-Grundgerüst ist Baustein einer Reihe wichtiger Alkaloide 
+reduziert ammoniakal. Silbernitrat-Lï¿½sung. Die Dï¿½mpfe reizen u. schï¿½digen 
+stark die Augen, die Atemwege sowie die Lunge u. verï¿½tzen auï¿½erdem die Haut; 
+Lungenï¿½dem mï¿½glich. Kontakt mit der Flï¿½ssigkeit bewirkt sehr starke Reizung 
+der Augen sowie der Haut; P. wird auch ï¿½ber die Haut aufgenommen. Das 
+P.-Grundgerï¿½st ist Baustein einer Reihe wichtiger Alkaloide 
 (Piperidin-Alkaloide) wie z. B. Anabasin, Arecolin, Pelletierin, Piperin, 
 Coniin, Lobinalin, im weiteren Sinne auch Cocain u. der Tropan-Alkaloide.
 
 Herst.: Durch elektrochem. Red. von Pyridin.
 
 Verw.: Lsm., Zwischenprodukt bei Synth. von Pharmazeutika, 
-Pflanzenschutzmitteln u. Riechstoffen, als Härter für Epoxidharze,
-Katalysator für Kondensationsreaktionen, Kautschukhilfsmittel u. als
+Pflanzenschutzmitteln u. Riechstoffen, als Hï¿½rter fï¿½r Epoxidharze,
+Katalysator fï¿½r Kondensationsreaktionen, Kautschukhilfsmittel u. als
 Reagenz auf Aldehyde, Au, Ce, Mg, Zr.
 
 Lit.: Beilstein E V 20/2, 3-21 # Hommel, Nr. 718 # Kirk-Othmer (4.) 20, 648 #
@@ -28,11 +28,11 @@ Merck-Index (12.), Nr. 7621 # Ullmann (4.) 7, 383; (5.) A 1, 359362.
 
 
 E piperidine
-F pipéridine
+F pipï¿½ridine
 I = S piperidina
 Z 2933 32
 CAS 110-89-4
 G 3
 
 
-Quelle: Römpp Lexikon Chemie  Version 2.0, Stuttgart/New York: Georg Thieme Verlag 1999
+Quelle: Rï¿½mpp Lexikon Chemie  Version 2.0, Stuttgart/New York: Georg Thieme Verlag 1999
