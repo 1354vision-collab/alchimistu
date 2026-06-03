@@ -445,6 +445,7 @@ var footer2=[			// style1 is an array of properties. You can have as many proper
 "black",			 // Menu Item Separator Color
 ]
 
+/*
 addmenu(menu=["footer",,,130,1,,footer1,1,,effect,,,,,,,,,,,,
 ,"About this Document","show-menu=AboutDoc","/general/document_help/",,2
 ]);
@@ -462,5 +463,6 @@ function CorrectionsWindow()
 	var cwin = window.open("/general/document_help/corrections/corrections_report.php?PageURL=" + ThisPage,'document_help','width=530,height=595,resizable,scrollbars=yes');
 	cwin.focus();
 }
-	
+*/
+
 dumpmenus();
